@@ -22,4 +22,4 @@ User privacy is very important. While the tool stores data allowing users to rev
 Feedback is very important to me, so feel free to provide any feedback once the program is uploaded. 
 
 
-                                                                                      ![Work in progress](https://media.giphy.com/media/NMMj3u6gbrDdCTvUy0/giphy.gif)
+![Work in progress](https://media.giphy.com/media/NMMj3u6gbrDdCTvUy0/giphy.gif)
